@@ -1,0 +1,9 @@
+.Heading{
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+.card-title{
+    font-size: 24px;
+    font-weight: bold;
+}
